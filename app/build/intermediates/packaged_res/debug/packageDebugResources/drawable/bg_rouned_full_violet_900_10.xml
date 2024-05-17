@@ -1,5 +1,0 @@
-<shape xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="@color/violet_900" />
-    <!-- Add corners with a uniform radius -->
-    <corners android:radius="10dp" />
-</shape>
