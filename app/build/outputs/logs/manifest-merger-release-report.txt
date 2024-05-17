@@ -1,0 +1,854 @@
+-- Merging decision tree log ---
+meta-data#com.google.android.geo.API_KEY
+INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:25:9-27:47
+	android:value
+		INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:26:13-58
+manifest
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:2:1-100:12
+INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:2:1-100:12
+INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:2:1-100:12
+INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:2:1-100:12
+MERGED from [androidx.databinding:viewbinding:8.3.0-alpha18] C:\Users\dwira\.gradle\caches\transforms-3\6ebca797a5da35cfcade99ebcc2a6a23\transformed\viewbinding-8.3.0-alpha18\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ai.client.generativeai:generativeai:0.1.0] C:\Users\dwira\.gradle\caches\transforms-3\67798ce4214dabbac4cd2dded5427eb5\transformed\generativeai-0.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\9666e7626f7e024bf4401f6218eac253\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\de49845358903f66d828a297c3fbbcee\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\d7e76dca618e4df797667540b5cf79f1\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\29c7f4f76ea9d8dbd665463dbe853f86\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\abd107ba409648d3927382af11019ace\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\41b1b8954229772050bb671af04a26c2\transformed\navigation-fragment-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\2bdb0dd87d00b78892835f7412bf9de9\transformed\navigation-ui-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\0ddccefff2af75ab8aedf69bab91e7d2\transformed\navigation-ui-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\dwira\.gradle\caches\transforms-3\446d586be2ffbdb07a5315d894c55ff0\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\dwira\.gradle\caches\transforms-3\efaad3fac14056e7f2f12901587d297d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\dwira\.gradle\caches\transforms-3\3c6ef701b4754a03ffd2533053791b9f\transformed\preference-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\dwira\.gradle\caches\transforms-3\873280ccc0b86073fb47cc2d1b9ba1e2\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\dwira\.gradle\caches\transforms-3\ffc6171b5e67b1a71d336ca9e21a4b24\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\4abbd2e36e6a81c32aea716f411f9e57\transformed\firebase-auth-ktx-22.3.1\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:17:1-44:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\dwira\.gradle\caches\transforms-3\25720a8a9ec25356b4b5e24d0c096a7d\transformed\glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\dwira\.gradle\caches\transforms-3\c8c2f2112b4886effb531b009f9b6b01\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\dwira\.gradle\caches\transforms-3\c5fdb3413793d764612122508728b96f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\dwira\.gradle\caches\transforms-3\4c75aa04f5006193fb1e149baa4854e8\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\dwira\.gradle\caches\transforms-3\86eef1fe57266d04094ffcce03f48fbe\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\3c9d0422a522513ee64900691541fafc\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\a9bf78bdb20032dcbd90999d9af18131\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\dwira\.gradle\caches\transforms-3\1fe98360202fbf208ba7789620d52b7c\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\dwira\.gradle\caches\transforms-3\e580581ef51668214e1f5df5107569bf\transformed\recaptcha-18.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\dwira\.gradle\caches\transforms-3\c81f420e9e2b452a0e4d5d0952ffbf08\transformed\integrity-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\eb94c6ba56233b5e418e3df6d1e801b5\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\023be190642f4c112a81c8b6e6405130\transformed\material3-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\dwira\.gradle\caches\transforms-3\6549e6b078faf91fa2b40f3c85eba04c\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\cd5bb3b3ad6b1bb83f9df5c8ce7a5ea6\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\54fe70d14cf1c4dd3aff9ff049b638ed\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\a8da4162ebfb3622357636cafdbab936\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\bb1a17069ef2dd3c37e54c7474828ab7\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\008cf19b54c91dc27a29b80116d430d1\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\958622b828cbba447ac8858ac6ddf4c7\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\8aee7c7218c80c19cf33f01837b25ebd\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\bbf5e559795de8ff2806fea82e17dbf6\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\34637c2bcbc60411d51ac88130eddde0\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\0693482ff8dd21343cfae597d7d6ebee\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\f2dc3da2fc3945df7c0899a7bb493295\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\63b10d1f7275262fce853cd10acf5c7f\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d834165a45f0c4985dc0be01c9159b03\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\d40fbec276d3b46ca5a446646cef40d8\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\1b944ceb843e2b7af4a509c65d2ebc5e\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\c71bb1ab21766983b43413a8f05a5e37\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\dwira\.gradle\caches\transforms-3\69afdca26512dfa064e87f902d4398f6\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\2eb7a2c05c1745cbaa81e455d9e3cb04\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\398be45e354e89d6573c3ef374b4c02a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c9b7f8018ad3362652ff5d178974c568\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\1c186bca261ebe417caf34171d656989\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\6dd4e60f684738b76f5b0a00d26db7a7\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\227edca6b93e10b6db20af13884b7f29\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\3131fc62041430769281a3f409fdde96\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\3c2a74dceec38702c6ba3e6e2294c083\transformed\lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\774e683a0b92a59947209aa1640932ee\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\831137d23711882f05910c1ba61b3c3c\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\fc6b0b90a5ff0f1ba3a009cc75ee859b\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\81d300ff28e08fbe4617d0abcd09d129\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\dwira\.gradle\caches\transforms-3\09944fc0b9f06c3490b405d751052f4f\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\041b936682be81237ad037103f31ee3d\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\dwira\.gradle\caches\transforms-3\af94c05453570ad78052c3081cfa2857\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\dwira\.gradle\caches\transforms-3\1ac138cc5b9c684072d489503ad8e2ef\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\dwira\.gradle\caches\transforms-3\1127ef4d89ad588af01914d55c77ef42\transformed\activity-compose-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\dwira\.gradle\caches\transforms-3\3a3c5efa81afd07405cbff66231959c5\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\ec489d71451890a6b452cce39a65412e\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\e1389ef5f2480e722b388d989ca567ee\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\a32fcb4053d8a4eaaa865b44b3a1fd82\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\dwira\.gradle\caches\transforms-3\68de65710aa0fc4d8448e8db73214e5e\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\1f0ce2ac2dcf6bc2c0a72fa39d94e05d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\e02b1e60f0085a089dfe386f369817a1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\cd8269b428b2f7204490f8629a108546\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\d598efbc9b8ea2f5d1e0d364dca10469\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\b3f36ea425e7e8e1bf216c92fe866559\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\7f8f73f321deda544e0e0165117851ad\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\ca22fc12511f494a9e519a4e262094b4\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\dwira\.gradle\caches\transforms-3\02057c5ba9464a664de08edbf5c772a6\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c8b606b38d4e24ee0a71bc0a8d177ced\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\a0fd3b8c3151a80be2633940176d47f1\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\779a04b51cab27379df61ff35825fdc5\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\5ccf7d3e7a50bbaaada715ac0c1255df\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\a978c8e0f32940331fe35f15824fbbc0\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-ktx:2.4.3] C:\Users\dwira\.gradle\caches\transforms-3\d34868acee350b1aeb6e792355d2ee62\transformed\room-ktx-2.4.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-splashscreen:1.1.0-alpha02] C:\Users\dwira\.gradle\caches\transforms-3\24662eb76d97b437224af669becd53c4\transformed\core-splashscreen-1.1.0-alpha02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\01f91bc056d329a54220d683a6db5b6d\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\dwira\.gradle\caches\transforms-3\f0cf34fce54362dac42e07828e46269d\transformed\room-runtime-2.4.3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\dwira\.gradle\caches\transforms-3\e480050a0f915da9a8a57af916d7aa05\transformed\firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\093d376417c28ec1f3f05a7f6b03b1fc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\04ed4b012429ab7a9792b0d888d130f4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\306023d69cbbbb196edf94126fa18933\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\dwira\.gradle\caches\transforms-3\780044dcace96e6451154faff0ac66f0\transformed\gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\dwira\.gradle\caches\transforms-3\f1ec749f672549ef258dd011b121e83c\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\dwira\.gradle\caches\transforms-3\daadc8ab94d8319ea317a29ce7fa486f\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\dwira\.gradle\caches\transforms-3\d3bb60fd87f8446c7c13adb6adcb957c\transformed\sqlite-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\e7fd6cfa692dc3138aae17037b848743\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\cd726586a3ad4ddc0b5c84e66f128ee2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\2c5ced43633ddda3612784bb86aca27d\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\dwira\.gradle\caches\transforms-3\78f5319a610a454f4285f556f701175f\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\84c597a4fa9cd81518110ddbaa340d1c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\799546a7590ec6502dfb7ce0e4b55ca3\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\7a5be2eef9dba2a845d22b716c9ad38f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\dwira\.gradle\caches\transforms-3\74bd622759f8cb064b7f6f5f8d394a5e\transformed\grpc-android-1.57.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\dwira\.gradle\caches\transforms-3\d9027ecf2608fc785b44e5a7936a5598\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.ai.client.generativeai:generativeai:0.1.0] C:\Users\dwira\.gradle\caches\transforms-3\67798ce4214dabbac4cd2dded5427eb5\transformed\generativeai-0.1.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.ai.client.generativeai:generativeai:0.1.0] C:\Users\dwira\.gradle\caches\transforms-3\67798ce4214dabbac4cd2dded5427eb5\transformed\generativeai-0.1.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\dwira\.gradle\caches\transforms-3\e580581ef51668214e1f5df5107569bf\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\dwira\.gradle\caches\transforms-3\e580581ef51668214e1f5df5107569bf\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:7:22-74
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:12:5-98:19
+INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:12:5-98:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\dwira\.gradle\caches\transforms-3\446d586be2ffbdb07a5315d894c55ff0\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\dwira\.gradle\caches\transforms-3\446d586be2ffbdb07a5315d894c55ff0\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\dwira\.gradle\caches\transforms-3\efaad3fac14056e7f2f12901587d297d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\dwira\.gradle\caches\transforms-3\efaad3fac14056e7f2f12901587d297d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\4abbd2e36e6a81c32aea716f411f9e57\transformed\firebase-auth-ktx-22.3.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\4abbd2e36e6a81c32aea716f411f9e57\transformed\firebase-auth-ktx-22.3.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\dwira\.gradle\caches\transforms-3\25720a8a9ec25356b4b5e24d0c096a7d\transformed\glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\dwira\.gradle\caches\transforms-3\25720a8a9ec25356b4b5e24d0c096a7d\transformed\glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\dwira\.gradle\caches\transforms-3\c5fdb3413793d764612122508728b96f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\dwira\.gradle\caches\transforms-3\c5fdb3413793d764612122508728b96f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\3c9d0422a522513ee64900691541fafc\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\3c9d0422a522513ee64900691541fafc\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\a9bf78bdb20032dcbd90999d9af18131\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\a9bf78bdb20032dcbd90999d9af18131\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\dwira\.gradle\caches\transforms-3\1fe98360202fbf208ba7789620d52b7c\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\dwira\.gradle\caches\transforms-3\1fe98360202fbf208ba7789620d52b7c\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\dwira\.gradle\caches\transforms-3\c81f420e9e2b452a0e4d5d0952ffbf08\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\dwira\.gradle\caches\transforms-3\c81f420e9e2b452a0e4d5d0952ffbf08\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\d40fbec276d3b46ca5a446646cef40d8\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\d40fbec276d3b46ca5a446646cef40d8\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\81d300ff28e08fbe4617d0abcd09d129\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\81d300ff28e08fbe4617d0abcd09d129\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\dwira\.gradle\caches\transforms-3\09944fc0b9f06c3490b405d751052f4f\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\dwira\.gradle\caches\transforms-3\09944fc0b9f06c3490b405d751052f4f\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c8b606b38d4e24ee0a71bc0a8d177ced\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c8b606b38d4e24ee0a71bc0a8d177ced\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\dwira\.gradle\caches\transforms-3\f0cf34fce54362dac42e07828e46269d\transformed\room-runtime-2.4.3\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\dwira\.gradle\caches\transforms-3\f0cf34fce54362dac42e07828e46269d\transformed\room-runtime-2.4.3\AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\dwira\.gradle\caches\transforms-3\780044dcace96e6451154faff0ac66f0\transformed\gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\dwira\.gradle\caches\transforms-3\780044dcace96e6451154faff0ac66f0\transformed\gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\e7fd6cfa692dc3138aae17037b848743\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\e7fd6cfa692dc3138aae17037b848743\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\cd726586a3ad4ddc0b5c84e66f128ee2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\cd726586a3ad4ddc0b5c84e66f128ee2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:18:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:16:9-54
+	android:roundIcon
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:19:9-47
+	tools:targetApi
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:22:9-29
+	android:icon
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:17:9-42
+	android:allowBackup
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:21:9-54
+	android:dataExtractionRules
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:15:9-65
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:13:9-49
+receiver#com.satrasia.AlarmReceiver
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:29:19-48
+activity#com.satrasia.Welcome
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:32:9-42:20
+	android:label
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:34:13-36
+	android:theme
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:36:13-58
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:33:13-36
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:40:27-74
+activity#com.satrasia.Main
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:45:9-48:72
+	android:exported
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:47:13-36
+	android:theme
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:48:13-69
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:46:13-33
+activity#com.satrasia.Register
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:51:9-54:72
+	android:exported
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:53:13-36
+	android:theme
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:52:13-37
+activity#com.satrasia.Login
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:57:9-60:72
+	android:exported
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:59:13-36
+	android:theme
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:60:13-69
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:58:13-34
+activity#com.satrasia.ForgotPassword
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:63:9-66:72
+	android:exported
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:65:13-36
+	android:theme
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:66:13-69
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:64:13-43
+activity#com.satrasia.Home
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:69:9-73:81
+	android:label
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:72:13-56
+	android:exported
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:71:13-36
+	android:theme
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:73:13-78
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:70:13-33
+activity#com.satrasia.Setting
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:76:9-79:81
+	android:exported
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:78:13-36
+	android:theme
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:79:13-78
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:77:13-36
+activity#com.satrasia.EmergencyContact
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:82:9-85:81
+	android:exported
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:84:13-36
+	android:theme
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:85:13-78
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:83:13-45
+activity#com.satrasia.AccountManager
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:88:9-91:72
+	android:exported
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:90:13-36
+	android:theme
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:91:13-69
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:89:13-43
+activity#com.satrasia.AboutApps
+ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:94:9-97:72
+	android:exported
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:96:13-36
+	android:theme
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:97:13-69
+	android:name
+		ADDED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml:95:13-38
+uses-sdk
+INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.3.0-alpha18] C:\Users\dwira\.gradle\caches\transforms-3\6ebca797a5da35cfcade99ebcc2a6a23\transformed\viewbinding-8.3.0-alpha18\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.3.0-alpha18] C:\Users\dwira\.gradle\caches\transforms-3\6ebca797a5da35cfcade99ebcc2a6a23\transformed\viewbinding-8.3.0-alpha18\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ai.client.generativeai:generativeai:0.1.0] C:\Users\dwira\.gradle\caches\transforms-3\67798ce4214dabbac4cd2dded5427eb5\transformed\generativeai-0.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ai.client.generativeai:generativeai:0.1.0] C:\Users\dwira\.gradle\caches\transforms-3\67798ce4214dabbac4cd2dded5427eb5\transformed\generativeai-0.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\9666e7626f7e024bf4401f6218eac253\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\9666e7626f7e024bf4401f6218eac253\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\de49845358903f66d828a297c3fbbcee\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\de49845358903f66d828a297c3fbbcee\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\d7e76dca618e4df797667540b5cf79f1\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\d7e76dca618e4df797667540b5cf79f1\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\29c7f4f76ea9d8dbd665463dbe853f86\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\29c7f4f76ea9d8dbd665463dbe853f86\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\abd107ba409648d3927382af11019ace\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\abd107ba409648d3927382af11019ace\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\41b1b8954229772050bb671af04a26c2\transformed\navigation-fragment-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\41b1b8954229772050bb671af04a26c2\transformed\navigation-fragment-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\2bdb0dd87d00b78892835f7412bf9de9\transformed\navigation-ui-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\2bdb0dd87d00b78892835f7412bf9de9\transformed\navigation-ui-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\0ddccefff2af75ab8aedf69bab91e7d2\transformed\navigation-ui-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\dwira\.gradle\caches\transforms-3\0ddccefff2af75ab8aedf69bab91e7d2\transformed\navigation-ui-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\dwira\.gradle\caches\transforms-3\446d586be2ffbdb07a5315d894c55ff0\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\dwira\.gradle\caches\transforms-3\446d586be2ffbdb07a5315d894c55ff0\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\dwira\.gradle\caches\transforms-3\efaad3fac14056e7f2f12901587d297d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\dwira\.gradle\caches\transforms-3\efaad3fac14056e7f2f12901587d297d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\dwira\.gradle\caches\transforms-3\3c6ef701b4754a03ffd2533053791b9f\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\dwira\.gradle\caches\transforms-3\3c6ef701b4754a03ffd2533053791b9f\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\dwira\.gradle\caches\transforms-3\873280ccc0b86073fb47cc2d1b9ba1e2\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\dwira\.gradle\caches\transforms-3\873280ccc0b86073fb47cc2d1b9ba1e2\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\dwira\.gradle\caches\transforms-3\ffc6171b5e67b1a71d336ca9e21a4b24\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\dwira\.gradle\caches\transforms-3\ffc6171b5e67b1a71d336ca9e21a4b24\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\4abbd2e36e6a81c32aea716f411f9e57\transformed\firebase-auth-ktx-22.3.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\4abbd2e36e6a81c32aea716f411f9e57\transformed\firebase-auth-ktx-22.3.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\dwira\.gradle\caches\transforms-3\25720a8a9ec25356b4b5e24d0c096a7d\transformed\glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\dwira\.gradle\caches\transforms-3\25720a8a9ec25356b4b5e24d0c096a7d\transformed\glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\dwira\.gradle\caches\transforms-3\c8c2f2112b4886effb531b009f9b6b01\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\dwira\.gradle\caches\transforms-3\c8c2f2112b4886effb531b009f9b6b01\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\dwira\.gradle\caches\transforms-3\c5fdb3413793d764612122508728b96f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\dwira\.gradle\caches\transforms-3\c5fdb3413793d764612122508728b96f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\dwira\.gradle\caches\transforms-3\4c75aa04f5006193fb1e149baa4854e8\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\dwira\.gradle\caches\transforms-3\4c75aa04f5006193fb1e149baa4854e8\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\dwira\.gradle\caches\transforms-3\86eef1fe57266d04094ffcce03f48fbe\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\dwira\.gradle\caches\transforms-3\86eef1fe57266d04094ffcce03f48fbe\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\3c9d0422a522513ee64900691541fafc\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\3c9d0422a522513ee64900691541fafc\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\a9bf78bdb20032dcbd90999d9af18131\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\a9bf78bdb20032dcbd90999d9af18131\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\dwira\.gradle\caches\transforms-3\1fe98360202fbf208ba7789620d52b7c\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\dwira\.gradle\caches\transforms-3\1fe98360202fbf208ba7789620d52b7c\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\dwira\.gradle\caches\transforms-3\e580581ef51668214e1f5df5107569bf\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\dwira\.gradle\caches\transforms-3\e580581ef51668214e1f5df5107569bf\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\dwira\.gradle\caches\transforms-3\c81f420e9e2b452a0e4d5d0952ffbf08\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\dwira\.gradle\caches\transforms-3\c81f420e9e2b452a0e4d5d0952ffbf08\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\eb94c6ba56233b5e418e3df6d1e801b5\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\eb94c6ba56233b5e418e3df6d1e801b5\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\023be190642f4c112a81c8b6e6405130\transformed\material3-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\023be190642f4c112a81c8b6e6405130\transformed\material3-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\dwira\.gradle\caches\transforms-3\6549e6b078faf91fa2b40f3c85eba04c\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\dwira\.gradle\caches\transforms-3\6549e6b078faf91fa2b40f3c85eba04c\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\cd5bb3b3ad6b1bb83f9df5c8ce7a5ea6\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\cd5bb3b3ad6b1bb83f9df5c8ce7a5ea6\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\54fe70d14cf1c4dd3aff9ff049b638ed\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\54fe70d14cf1c4dd3aff9ff049b638ed\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\a8da4162ebfb3622357636cafdbab936\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\a8da4162ebfb3622357636cafdbab936\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\bb1a17069ef2dd3c37e54c7474828ab7\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\bb1a17069ef2dd3c37e54c7474828ab7\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\008cf19b54c91dc27a29b80116d430d1\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\008cf19b54c91dc27a29b80116d430d1\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\958622b828cbba447ac8858ac6ddf4c7\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\958622b828cbba447ac8858ac6ddf4c7\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\8aee7c7218c80c19cf33f01837b25ebd\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\8aee7c7218c80c19cf33f01837b25ebd\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\bbf5e559795de8ff2806fea82e17dbf6\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\bbf5e559795de8ff2806fea82e17dbf6\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\34637c2bcbc60411d51ac88130eddde0\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\34637c2bcbc60411d51ac88130eddde0\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\0693482ff8dd21343cfae597d7d6ebee\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\0693482ff8dd21343cfae597d7d6ebee\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\f2dc3da2fc3945df7c0899a7bb493295\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\f2dc3da2fc3945df7c0899a7bb493295\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\63b10d1f7275262fce853cd10acf5c7f\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\63b10d1f7275262fce853cd10acf5c7f\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d834165a45f0c4985dc0be01c9159b03\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d834165a45f0c4985dc0be01c9159b03\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\d40fbec276d3b46ca5a446646cef40d8\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\d40fbec276d3b46ca5a446646cef40d8\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\1b944ceb843e2b7af4a509c65d2ebc5e\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\1b944ceb843e2b7af4a509c65d2ebc5e\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\c71bb1ab21766983b43413a8f05a5e37\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\c71bb1ab21766983b43413a8f05a5e37\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\dwira\.gradle\caches\transforms-3\69afdca26512dfa064e87f902d4398f6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\dwira\.gradle\caches\transforms-3\69afdca26512dfa064e87f902d4398f6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\2eb7a2c05c1745cbaa81e455d9e3cb04\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\2eb7a2c05c1745cbaa81e455d9e3cb04\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\398be45e354e89d6573c3ef374b4c02a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\398be45e354e89d6573c3ef374b4c02a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c9b7f8018ad3362652ff5d178974c568\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c9b7f8018ad3362652ff5d178974c568\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\1c186bca261ebe417caf34171d656989\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\1c186bca261ebe417caf34171d656989\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\6dd4e60f684738b76f5b0a00d26db7a7\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\6dd4e60f684738b76f5b0a00d26db7a7\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\227edca6b93e10b6db20af13884b7f29\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\227edca6b93e10b6db20af13884b7f29\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\3131fc62041430769281a3f409fdde96\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\3131fc62041430769281a3f409fdde96\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\3c2a74dceec38702c6ba3e6e2294c083\transformed\lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\3c2a74dceec38702c6ba3e6e2294c083\transformed\lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\774e683a0b92a59947209aa1640932ee\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\774e683a0b92a59947209aa1640932ee\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\831137d23711882f05910c1ba61b3c3c\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\831137d23711882f05910c1ba61b3c3c\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\fc6b0b90a5ff0f1ba3a009cc75ee859b\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\dwira\.gradle\caches\transforms-3\fc6b0b90a5ff0f1ba3a009cc75ee859b\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\81d300ff28e08fbe4617d0abcd09d129\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\81d300ff28e08fbe4617d0abcd09d129\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\dwira\.gradle\caches\transforms-3\09944fc0b9f06c3490b405d751052f4f\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\dwira\.gradle\caches\transforms-3\09944fc0b9f06c3490b405d751052f4f\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\041b936682be81237ad037103f31ee3d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\041b936682be81237ad037103f31ee3d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\dwira\.gradle\caches\transforms-3\af94c05453570ad78052c3081cfa2857\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\dwira\.gradle\caches\transforms-3\af94c05453570ad78052c3081cfa2857\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\dwira\.gradle\caches\transforms-3\1ac138cc5b9c684072d489503ad8e2ef\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\dwira\.gradle\caches\transforms-3\1ac138cc5b9c684072d489503ad8e2ef\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\dwira\.gradle\caches\transforms-3\1127ef4d89ad588af01914d55c77ef42\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\dwira\.gradle\caches\transforms-3\1127ef4d89ad588af01914d55c77ef42\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\dwira\.gradle\caches\transforms-3\3a3c5efa81afd07405cbff66231959c5\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\dwira\.gradle\caches\transforms-3\3a3c5efa81afd07405cbff66231959c5\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\ec489d71451890a6b452cce39a65412e\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\ec489d71451890a6b452cce39a65412e\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\e1389ef5f2480e722b388d989ca567ee\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\e1389ef5f2480e722b388d989ca567ee\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\a32fcb4053d8a4eaaa865b44b3a1fd82\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\a32fcb4053d8a4eaaa865b44b3a1fd82\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\dwira\.gradle\caches\transforms-3\68de65710aa0fc4d8448e8db73214e5e\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\dwira\.gradle\caches\transforms-3\68de65710aa0fc4d8448e8db73214e5e\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\1f0ce2ac2dcf6bc2c0a72fa39d94e05d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\1f0ce2ac2dcf6bc2c0a72fa39d94e05d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\e02b1e60f0085a089dfe386f369817a1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\e02b1e60f0085a089dfe386f369817a1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\cd8269b428b2f7204490f8629a108546\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\cd8269b428b2f7204490f8629a108546\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\d598efbc9b8ea2f5d1e0d364dca10469\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\d598efbc9b8ea2f5d1e0d364dca10469\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\b3f36ea425e7e8e1bf216c92fe866559\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\b3f36ea425e7e8e1bf216c92fe866559\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\7f8f73f321deda544e0e0165117851ad\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\7f8f73f321deda544e0e0165117851ad\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\ca22fc12511f494a9e519a4e262094b4\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\dwira\.gradle\caches\transforms-3\ca22fc12511f494a9e519a4e262094b4\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\dwira\.gradle\caches\transforms-3\02057c5ba9464a664de08edbf5c772a6\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\dwira\.gradle\caches\transforms-3\02057c5ba9464a664de08edbf5c772a6\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c8b606b38d4e24ee0a71bc0a8d177ced\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c8b606b38d4e24ee0a71bc0a8d177ced\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\a0fd3b8c3151a80be2633940176d47f1\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\a0fd3b8c3151a80be2633940176d47f1\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\779a04b51cab27379df61ff35825fdc5\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\779a04b51cab27379df61ff35825fdc5\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\5ccf7d3e7a50bbaaada715ac0c1255df\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\5ccf7d3e7a50bbaaada715ac0c1255df\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\a978c8e0f32940331fe35f15824fbbc0\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\a978c8e0f32940331fe35f15824fbbc0\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-ktx:2.4.3] C:\Users\dwira\.gradle\caches\transforms-3\d34868acee350b1aeb6e792355d2ee62\transformed\room-ktx-2.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.3] C:\Users\dwira\.gradle\caches\transforms-3\d34868acee350b1aeb6e792355d2ee62\transformed\room-ktx-2.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.1.0-alpha02] C:\Users\dwira\.gradle\caches\transforms-3\24662eb76d97b437224af669becd53c4\transformed\core-splashscreen-1.1.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-splashscreen:1.1.0-alpha02] C:\Users\dwira\.gradle\caches\transforms-3\24662eb76d97b437224af669becd53c4\transformed\core-splashscreen-1.1.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\01f91bc056d329a54220d683a6db5b6d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\01f91bc056d329a54220d683a6db5b6d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\dwira\.gradle\caches\transforms-3\f0cf34fce54362dac42e07828e46269d\transformed\room-runtime-2.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\dwira\.gradle\caches\transforms-3\f0cf34fce54362dac42e07828e46269d\transformed\room-runtime-2.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\dwira\.gradle\caches\transforms-3\e480050a0f915da9a8a57af916d7aa05\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\dwira\.gradle\caches\transforms-3\e480050a0f915da9a8a57af916d7aa05\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\093d376417c28ec1f3f05a7f6b03b1fc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\093d376417c28ec1f3f05a7f6b03b1fc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\04ed4b012429ab7a9792b0d888d130f4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\04ed4b012429ab7a9792b0d888d130f4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\306023d69cbbbb196edf94126fa18933\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\306023d69cbbbb196edf94126fa18933\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\dwira\.gradle\caches\transforms-3\780044dcace96e6451154faff0ac66f0\transformed\gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\dwira\.gradle\caches\transforms-3\780044dcace96e6451154faff0ac66f0\transformed\gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\dwira\.gradle\caches\transforms-3\f1ec749f672549ef258dd011b121e83c\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\dwira\.gradle\caches\transforms-3\f1ec749f672549ef258dd011b121e83c\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\dwira\.gradle\caches\transforms-3\daadc8ab94d8319ea317a29ce7fa486f\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\dwira\.gradle\caches\transforms-3\daadc8ab94d8319ea317a29ce7fa486f\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\dwira\.gradle\caches\transforms-3\d3bb60fd87f8446c7c13adb6adcb957c\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\dwira\.gradle\caches\transforms-3\d3bb60fd87f8446c7c13adb6adcb957c\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\e7fd6cfa692dc3138aae17037b848743\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\e7fd6cfa692dc3138aae17037b848743\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\cd726586a3ad4ddc0b5c84e66f128ee2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\cd726586a3ad4ddc0b5c84e66f128ee2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\2c5ced43633ddda3612784bb86aca27d\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\2c5ced43633ddda3612784bb86aca27d\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\dwira\.gradle\caches\transforms-3\78f5319a610a454f4285f556f701175f\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\dwira\.gradle\caches\transforms-3\78f5319a610a454f4285f556f701175f\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\84c597a4fa9cd81518110ddbaa340d1c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\84c597a4fa9cd81518110ddbaa340d1c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\799546a7590ec6502dfb7ce0e4b55ca3\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\799546a7590ec6502dfb7ce0e4b55ca3\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\7a5be2eef9dba2a845d22b716c9ad38f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\7a5be2eef9dba2a845d22b716c9ad38f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\dwira\.gradle\caches\transforms-3\74bd622759f8cb064b7f6f5f8d394a5e\transformed\grpc-android-1.57.2\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\dwira\.gradle\caches\transforms-3\74bd622759f8cb064b7f6f5f8d394a5e\transformed\grpc-android-1.57.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\dwira\.gradle\caches\transforms-3\d9027ecf2608fc785b44e5a7936a5598\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\dwira\.gradle\caches\transforms-3\d9027ecf2608fc785b44e5a7936a5598\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\4abbd2e36e6a81c32aea716f411f9e57\transformed\firebase-auth-ktx-22.3.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\a9bf78bdb20032dcbd90999d9af18131\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\a9bf78bdb20032dcbd90999d9af18131\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\4abbd2e36e6a81c32aea716f411f9e57\transformed\firebase-auth-ktx-22.3.1\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\4abbd2e36e6a81c32aea716f411f9e57\transformed\firebase-auth-ktx-22.3.1\AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\4abbd2e36e6a81c32aea716f411f9e57\transformed\firebase-auth-ktx-22.3.1\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\4abbd2e36e6a81c32aea716f411f9e57\transformed\firebase-auth-ktx-22.3.1\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\4abbd2e36e6a81c32aea716f411f9e57\transformed\firebase-auth-ktx-22.3.1\AndroidManifest.xml:12:17-119
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\dwira\.gradle\caches\transforms-3\e580581ef51668214e1f5df5107569bf\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\dwira\.gradle\caches\transforms-3\e580581ef51668214e1f5df5107569bf\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\dwira\.gradle\caches\transforms-3\74bd622759f8cb064b7f6f5f8d394a5e\transformed\grpc-android-1.57.2\AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\dwira\.gradle\caches\transforms-3\74bd622759f8cb064b7f6f5f8d394a5e\transformed\grpc-android-1.57.2\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\dwira\.gradle\caches\transforms-3\9fafb9a3b545c62b553c971eeb831c5d\transformed\firebase-auth-22.3.1\AndroidManifest.xml:70:17-109
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\dwira\.gradle\caches\transforms-3\30d6a4ab75fb7c8f23beed985ea4bfcc\transformed\play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\dwira\.gradle\caches\transforms-3\d72d1cefe73120a2a4ef4ec5add0dc53\transformed\firebase-database-20.3.1\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.11.1] C:\Users\dwira\.gradle\caches\transforms-3\d8aa6020923442485cad16b48f5e6d6b\transformed\firebase-firestore-24.11.1\AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\3c9d0422a522513ee64900691541fafc\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\3c9d0422a522513ee64900691541fafc\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\3c9d0422a522513ee64900691541fafc\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\dwira\.gradle\caches\transforms-3\3c9d0422a522513ee64900691541fafc\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\a9bf78bdb20032dcbd90999d9af18131\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\a9bf78bdb20032dcbd90999d9af18131\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\a9bf78bdb20032dcbd90999d9af18131\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\dwira\.gradle\caches\transforms-3\7921f1d918f3c6a25cc49814caf360a5\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\dwira\.gradle\caches\transforms-3\e580581ef51668214e1f5df5107569bf\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\dwira\.gradle\caches\transforms-3\e580581ef51668214e1f5df5107569bf\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:22-95
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\d40fbec276d3b46ca5a446646cef40d8\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\d40fbec276d3b46ca5a446646cef40d8\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\cd726586a3ad4ddc0b5c84e66f128ee2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dwira\.gradle\caches\transforms-3\cd726586a3ad4ddc0b5c84e66f128ee2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\dwira\.gradle\caches\transforms-3\d4ecb496e3e4a5a0097960da9b659d39\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\d40fbec276d3b46ca5a446646cef40d8\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\d40fbec276d3b46ca5a446646cef40d8\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\dwira\.gradle\caches\transforms-3\d40fbec276d3b46ca5a446646cef40d8\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dwira\.gradle\caches\transforms-3\a3cef2a52f874a9f3b25206918295313\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\dwira\.gradle\caches\transforms-3\09944fc0b9f06c3490b405d751052f4f\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\dwira\.gradle\caches\transforms-3\09944fc0b9f06c3490b405d751052f4f\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\dwira\.gradle\caches\transforms-3\09944fc0b9f06c3490b405d751052f4f\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c8b606b38d4e24ee0a71bc0a8d177ced\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c8b606b38d4e24ee0a71bc0a8d177ced\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c8b606b38d4e24ee0a71bc0a8d177ced\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c8b606b38d4e24ee0a71bc0a8d177ced\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c8b606b38d4e24ee0a71bc0a8d177ced\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\dwira\.gradle\caches\transforms-3\c8b606b38d4e24ee0a71bc0a8d177ced\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.satrasia.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.satrasia.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\dwira\.gradle\caches\transforms-3\01c5de730c644c3cf3d1dbc6bc413678\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.3] C:\Users\dwira\.gradle\caches\transforms-3\f0cf34fce54362dac42e07828e46269d\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.3] C:\Users\dwira\.gradle\caches\transforms-3\f0cf34fce54362dac42e07828e46269d\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.3] C:\Users\dwira\.gradle\caches\transforms-3\f0cf34fce54362dac42e07828e46269d\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.3] C:\Users\dwira\.gradle\caches\transforms-3\f0cf34fce54362dac42e07828e46269d\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74

@@ -1,0 +1,10 @@
+C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\test\java\com\satrasia\ui\dashboard\DashboardFragment.kt
+C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\test\java\com\satrasia\ui\dashboard\DashboardViewModel.kt
+C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\test\java\com\satrasia\ui\theme\Color.kt
+C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\test\java\com\satrasia\ui\home\HomeViewModel.kt
+C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\test\java\com\satrasia\ui\theme\Type.kt
+C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\test\java\com\satrasia\ui\notifications\NotificationsFragment.kt
+C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\test\java\com\satrasia\ui\theme\Theme.kt
+C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\test\java\com\satrasia\ui\notifications\NotificationsViewModel.kt
+C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\test\java\com\satrasia\Dashboard.kt
+C:\Users\dwira\AndroidStudioProjects\SATRASIA2\app\src\test\java\com\satrasia\ui\home\HomeFragment.kt

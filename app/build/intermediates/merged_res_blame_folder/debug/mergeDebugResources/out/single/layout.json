@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\emergency_contact_cell.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\emergency_contact_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\activity_emergency_contact.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\activity_emergency_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.satrasia.app-mergeDebugResources-89:/layout/activity_home.xml",
+        "source": "com.satrasia.app-main-92:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\activity_account_manager.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\activity_account_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\activity_about_apps.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\activity_about_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\task_item_cell.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\task_item_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\fragment_new_task_sheet.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\fragment_new_task_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-mergeDebugResources-89:\\layout\\fragment_emergency_contact_sheet.xml",
+        "source": "C:\\Users\\dwira\\.gradle\\daemon\\8.4\\com.satrasia.app-main-92:\\layout\\fragment_emergency_contact_sheet.xml"
+    }
+]
