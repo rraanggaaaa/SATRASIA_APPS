@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+<!--    DEFINISIKAN PERIZINAN USER -->
+    <uses-permission android:name="android.permission.INTERNET" /> <!--    PERIZINAN UNTUK MENGAKSES INTERNET -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!--    PERIZINAN PUSH NOTIFIKASI (JIKA WAKTU AKTIVITAS TELAH PADA WAKTUNYA -->
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" /> <!--    PERIZINAN UNTUK SET ALARM -->
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" /> <!--    PERIZINAN ALRAM UNUTK PENJADWALAN -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+
+
+    <!--    NAMA, ICON, TEMA APLIKASI -->
+    <application
+        android:name=".Reminder.ToDoApplication"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/img_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/img_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.App.SplashScreen"
+        tools:targetApi="31">
+
+        <!--    AKSES GOOGLE MAPS MENGGUNAKAN API KEY GMAPS -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="${MAPS_API_KEY}" />
+
+        <receiver android:name=".AlarmReceiver" /> <!--    ALARM RECEIVER SEBAGAI PENERIMA DATA ALARM -->
+
+        <!--    RENDER HALAMAN UTAMA (HALAMAN WELCOME)  -->
+        <activity
+            android:name=".Welcome"
+            android:exported="true"
+            android:label="SATRASIA"
+            android:theme="@style/Theme.App.SplashScreen"> <!--    TEMA SPLASHSCREEN UNTUK MENAMPILKAN SPLASH SCREEN DIAWAL -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" /> <!--    DEFINISI BAHWA HALAMAN UTAMA YANG DITAMPIKAN -->
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--    RENDER HALAMAN MAIN (USER MEMILIH LOGIN ATAU REGISTER)  -->
+        <activity
+            android:name=".Main"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <!--    RENDER HALAMAN REGISTER  -->
+        <activity
+            android:name=".Register"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <!--    RENDER HALAMAN LOGIN  -->
+        <activity
+            android:name=".Login"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <!--    RENDER HALAMAN RESET PASSWORD  -->
+        <activity
+            android:name=".ForgotPassword"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <!--    RENDER HALAMAN HOME (MENAMPILKAN MAPS DAN RUTINITAS)  -->
+        <activity
+            android:name=".Home"
+            android:exported="true"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+
+        <!--    RENDER HALAMAN SETTING  -->
+        <activity
+            android:name=".Setting"
+            android:exported="true"
+            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+
+        <!--    RENDER HALAMAN KONTAK DARURAT  -->
+        <activity
+            android:name=".EmergencyContact"
+            android:exported="true"
+            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+
+        <!--    RENDER HALAMAN MANAJEMEN AKUN (MENGUBAH NAMA, EMAIL, PASSWORD ATAU NOMOR TELEPON)  -->
+        <activity
+            android:name=".AccountManager"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <!--    RENDER HALAMAN TENTANG APLIKASI  -->
+        <activity
+            android:name=".AboutApps"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+    </application>
+
+</manifest>

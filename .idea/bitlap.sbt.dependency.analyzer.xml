@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SbtDependencyAnalyzer.Settings">
+    <option name="disableAnalyzeProvided" value="true" />
+    <option name="disableAnalyzeTest" value="true" />
+    <option name="organization" value="org.bitlap" />
+  </component>
+</project>

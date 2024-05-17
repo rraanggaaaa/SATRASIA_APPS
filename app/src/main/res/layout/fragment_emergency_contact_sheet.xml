@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:layout_margin="10dp"
+    android:background="@color/dark_200"
+    tools:context=".Reminder.NewTaskSheet">
+
+
+    <TextView
+        android:id="@+id/taskTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tambah_kontak"
+        android:textSize="25sp"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        style="@style/TextAppearance.AppCompat.Title"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginVertical="10dp"
+        android:textColorHint="@color/white"
+        app:boxStrokeColor="@color/white"
+        app:hintTextColor="@color/white"
+        app:endIconTint="@color/white"
+        app:cursorColor="@color/white">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/name"
+            android:hint="@string/nama_normal"
+            android:textColorHighlight="@color/white"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:textColorHint="@color/white"
+        app:boxStrokeColor="@color/white"
+        app:hintTextColor="@color/white"
+        app:endIconTint="@color/white"
+        app:cursorColor="@color/white">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/phone"
+            android:hint="@string/nomor_telepon_normal"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white">
+        </com.google.android.material.textfield.TextInputEditText>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginHorizontal="20dp">
+
+        <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+            android:id="@+id/backButton"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:backgroundTint="@color/dark_400"
+            app:rippleColor="@color/pink_900"
+            android:outlineSpotShadowColor="@color/pink_900"
+            android:text="@string/batal"
+            app:icon="@drawable/vector_arrow_back"
+            app:iconTint="@color/pink_900"
+            android:layout_margin="20dp"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            tools:ignore="UnusedAttribute" />
+
+        <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+            android:id="@+id/saveButton"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/pink_900"
+            android:text="@string/simpan"
+            app:icon="@drawable/vector_save"
+            app:iconGravity="end"
+            app:iconTint="@color/white"
+            android:textAllCaps="false"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+<resources>
+    <style name="Widget.Theme.App.SplashScreen.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/dark_400</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+    <style name="SmallExtendedFAB" parent="Widget.MaterialComponents.ExtendedFloatingActionButton.Icon">
+        <item name="android:width">20dp</item>
+        <item name="android:height">20dp</item>
+        <item name="android:padding">0dp</item>
+        <item name="borderWidth">0dp</item>
+    </style>
+
+    <style name="CustomFABStyle" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+        <item name="shapeAppearance">@style/CustomShapeAppearance</item>
+    </style>
+
+    <style name="CustomShapeAppearance" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10dp</item>
+    </style>
+
+    <style name="MyDarkTimePickerDialog" parent="ThemeOverlay.MaterialComponents.TimePicker">
+        <!-- Background color of the surface -->
+        <item name="colorSurface">@color/dark_400</item>
+        <!-- Color for text and tick marks on the clock -->
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorScheme">@color/dark_200</item>
+        <!-- Background color of the clock face -->
+        <item name="colorPrimary">@color/pink_400</item>
+        <!-- Color of the button text and highlights -->
+        <item name="colorAccent">@color/dark_200</item>
+        <item name="colorSecondary">@color/blue_200</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:colorBackground">@color/dark_200</item>
+    </style>
+
+    <style name="Custom.Clock" parent="Widget.MaterialComponents.TimePicker.Clock">
+        <item name="clockFaceBackgroundColor">@color/dark_200</item>
+        <item name="clockHandColor">@color/pink_400</item>
+        <item name="clockNumberTextColor">@color/white</item>
+    </style>
+
+
+
+</resources>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Setting"
+    android:background="@color/background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/profil_saya"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:fontFamily="@font/poppins_bold"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="50dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:ignore="UselessParent">
+
+            <LinearLayout
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:orientation="vertical"
+                android:background="@drawable/rounded_full_transparent">
+
+                <com.mikhaellopez.circularimageview.CircularImageView
+                    android:id="@+id/CircularImageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/vector_avatar"
+                    app:civ_border_color="#3f51b5"
+                    app:civ_border_width="2dp"
+                    app:civ_shadow="true"
+                    app:civ_shadow_color="#3f51b5"
+                    app:civ_shadow_radius="10dp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/etName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:text=""
+                android:textSize="20sp"
+                android:layout_gravity="center"
+                android:fontFamily="@font/monserrat_regular"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:id="@+id/etEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:text=""
+                android:textSize="15sp"
+                android:fontFamily="@font/monserrat_regular"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:id="@+id/etNoTelp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:text=""
+                android:textSize="15sp"
+                android:fontFamily="@font/monserrat_regular"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginBottom="20dp"
+                android:padding="20dp"
+                tools:ignore="UselessParent">
+
+                <LinearLayout
+                    android:id="@+id/kontakDarurat"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_rouned_full_violet_900_10"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:src="@drawable/vector_sos"
+                        android:padding="10dp"
+                        android:layout_margin="10dp"
+                        android:contentDescription="@string/img_sos" />
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="@string/kontak_darurat"
+                        android:textColor="@color/white"
+                        android:layout_gravity="center"
+                        android:fontFamily="@font/poppins_bold"
+                        android:textSize="15sp"/>
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/vector_arrow"
+                        android:layout_gravity="center"
+                        android:layout_marginStart="50dp"
+                        android:contentDescription="@string/img_arrow" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/kelolaAkun"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_rouned_full_violet_900_10"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:src="@drawable/vector_manage_account"
+                        android:padding="10dp"
+                        android:layout_margin="10dp"
+                        android:contentDescription="@string/img_manage_account" />
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="@string/kelola_akun"
+                        android:textColor="@color/white"
+                        android:layout_gravity="center"
+                        android:fontFamily="@font/poppins_bold"
+                        android:textSize="15sp"/>
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/vector_arrow"
+                        android:layout_gravity="center"
+                        android:layout_marginStart="50dp"
+                        android:contentDescription="@string/img_arrow" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tentangDeveloper"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_rouned_full_violet_900_10"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:src="@drawable/vector_developer"
+                        android:padding="10dp"
+                        android:layout_margin="10dp"
+                        android:contentDescription="@string/img_developer" />
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="@string/tentang_aplikasi"
+                        android:textColor="@color/white"
+                        android:layout_gravity="center"
+                        android:fontFamily="@font/poppins_bold"
+                        android:textSize="15sp"/>
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/vector_arrow"
+                        android:layout_gravity="center"
+                        android:layout_marginStart="50dp"
+                        android:contentDescription="@string/img_arrow" />
+
+                </LinearLayout>
+
+                <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+                    android:id="@+id/buttonLogout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@color/pink_900"
+                    android:layout_gravity="center"
+                    android:padding="5dp"
+                    android:layout_margin="10dp"
+                    android:text="@string/logout"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white"
+                    app:shapeAppearanceOverlay="@style/CustomShapeAppearance"
+                    app:icon="@drawable/vector_logout"
+                    app:iconTint="@color/white"/>
+            </LinearLayout>
+
+    </LinearLayout>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:id="@+id/navhost"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <com.google.android.material.bottomappbar.BottomAppBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:backgroundTint="@color/dark_900"
+            app:fabCradleRoundedCornerRadius="10dp"
+            app:fabCradleVerticalOffset="10dp">
+
+            <com.google.android.material.bottomnavigation.BottomNavigationView
+                android:id="@+id/nav"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:menu="@menu/bottom_nav_menu"
+                android:layout_marginEnd="15dp"
+                android:layout_gravity="bottom"
+                app:itemIconTint="@color/pink_900"
+                app:itemTextColor="@color/white"
+                android:background="@drawable/bg_transparent"/>
+
+        </com.google.android.material.bottomappbar.BottomAppBar>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/vector_bot"
+            android:backgroundTint="@color/pink_400"
+            app:layout_anchor="@id/nav"
+            android:contentDescription="@string/img_bot" />
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</LinearLayout>

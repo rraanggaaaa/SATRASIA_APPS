@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SATRASIA" parent="android:Theme.Material.NoActionBar" />
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar"/>
+
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/dark_400</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/dark_400</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_screen</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/dark_400</item>
+        <item name="postSplashScreenTheme">@style/Theme.SATRASIA</item>
+    </style>
+
+    <style name="ThemeOverlay.SATRASIA.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_600</item>
+        <item name="fullscreenTextColor">@color/light_blue_A200</item>
+    </style>
+</resources>
